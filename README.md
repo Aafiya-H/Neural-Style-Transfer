@@ -23,15 +23,15 @@ Results
 </h2>
 <p align="center">
 <h5>Content Image</h5>
-  <img src ="./dataset/content/content_1.jpg">
+  <img src ="./dataset/content/content_1.jpg" width = 500px>
 </p>
 
 <h5>Style Image</h5>
-  <img src ="./dataset/style/style_1.jpg">
+  <img src ="./dataset/style/style_1.jpg" width = 500px>
 </p>
 
 <h5>Generated Image</h5>
-  <img src ="./result/result_1.jpg">
+  <img src ="./results/result_1.jpg" width = 500px>
 </p>
 
 -----------------------------------
