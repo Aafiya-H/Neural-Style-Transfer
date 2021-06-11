@@ -31,7 +31,7 @@ Results
 </p>
 
 <h5>Generated Image</h5>
-  <img src ="./results/result_1.jpg" width = 500px>
+  <img src ="./results/result_1.png" width = 500px>
 </p>
 
 -----------------------------------
